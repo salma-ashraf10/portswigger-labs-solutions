@@ -11,7 +11,7 @@ My solutions and notes for PortSwigger Web Security Academy labs while learning 
 | Lab Name | Link |
 |----------|------|
 |File path traversal, simple case|[solution](https://github.com/salma-ashraf10/portswigger-labs-solutions/blob/main/Path-Traversal/Lab%201-File-path-traversal%2Csimple-case.md)|
-|Absolute Path Bypass|[](https://github.com/salma-ashraf10/portswigger-labs-solutions/blob/main/Path-Traversal/Lab%202-absolute-path-bypass.md)|
+|Absolute Path Bypass|[solution](https://github.com/salma-ashraf10/portswigger-labs-solutions/blob/main/Path-Traversal/Lab%202-absolute-path-bypass.md)|
 
 ## Author
 
