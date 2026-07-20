@@ -15,6 +15,7 @@ My solutions and notes for PortSwigger Web Security Academy labs while learning 
 |Sequences Stripped Non Recursively|[solution](https://github.com/salma-ashraf10/portswigger-labs-solutions/blob/main/Path-Traversal/Lab%203-sequences-stripped-non-recursively.md)|
 |Superfluous Url Decode|[solution](https://github.com/salma-ashraf10/portswigger-labs-solutions/blob/main/Path-Traversal/Lab%204-superfluous-url-decode.md)|
 |Validate Start Of Path|[solution](https://github.com/salma-ashraf10/portswigger-labs-solutions/blob/main/Path-Traversal/Lab%205-validate-start-of-path.md)|
+|Validate File Extension Null Byte Bypass|[solution](https://github.com/salma-ashraf10/portswigger-labs-solutions/blob/main/Path-Traversal/Lab%206-validate-file-extension-null-byte-bypass.md)|
 
 
 ## Author
