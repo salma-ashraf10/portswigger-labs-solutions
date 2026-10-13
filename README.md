@@ -33,6 +33,31 @@ My solutions and notes for PortSwigger Web Security Academy labs while learning 
 </tr>
 </table>
 
+#### 3- Web Cache Deception
+
+<table>
+<tr>
+<td width="60%">
+
+| Lab Name | Link |
+|----------|------|
+| Exploiting path mapping for web cache deception | [solution](https://github.com/salma-ashraf10/portswigger-labs-solutions/blob/main/Web-Cache-Deception/Lab%201%3AExploiting-path-mapping-for-web-cache-deception.md) |
+| Exploiting path delimiters for web cache deception | [solution](https://github.com/salma-ashraf10/portswigger-labs-solutions/blob/main/Web-Cache-Deception/Lab%202%3AExploiting-path-delimiters-for-web-cache-deception.md) |
+| Exploiting origin server normalization for web cache deception | [solution](https://github.com/salma-ashraf10/portswigger-labs-solutions/blob/main/Web-Cache-Deception/Lab%203%3AExploiting-origin-server-normalization-for-web-cache-deception.md) |
+| Exploiting cache server normalization for web cache deception | [solution](https://github.com/salma-ashraf10/portswigger-labs-solutions/blob/main/Web-Cache-Deception/Lab%204%3AExploiting-cache-server-normalization-for-web-cache-deception.md) |
+| Exploiting exact-match cache rules for web cache deception | [solution](https://github.com/salma-ashraf10/portswigger-labs-solutions/blob/main/Web-Cache-Deception/Lab%205%3AExploiting-exact-match-cache-rules-for-web-cache-deception.md) |
+
+</td>
+
+<td width="40%" align="center">
+
+<img width="400" alt="Web Cache Deception labs" src="https://github.com/user-attachments/assets/1ad0b35c-60f2-4df6-9fdc-da7abf3c4bb4" />
+
+</td>
+
+</tr>
+</table>
+
 
 ## Author
 
