@@ -51,7 +51,7 @@ My solutions and notes for PortSwigger Web Security Academy labs while learning 
 
 <td width="40%" align="center">
 
-<img width="400" height="300" alt="Web Cache Deception labs" src="https://github.com/user-attachments/assets/1ad0b35c-60f2-4df6-9fdc-da7abf3c4bb4" />
+<img width="600" height="450" alt="Web Cache Deception labs" src="https://github.com/user-attachments/assets/1ad0b35c-60f2-4df6-9fdc-da7abf3c4bb4" />
 
 </td>
 
