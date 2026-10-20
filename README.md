@@ -59,6 +59,33 @@ My solutions and notes for PortSwigger Web Security Academy labs while learning 
 </table>
 
 
+#### 4- API Testing
+
+<table>
+<tr>
+<td width="60%">
+
+| Lab Name | Link |
+|----------|------|
+| Exploiting an API Endpoint Using Documentation | [solution](https://github.com/salma-ashraf10/portswigger-labs-solutions/blob/main/API-Testing/Lab%201%3AExploiting-an-API-endpoint-using-documentation.md) |
+| Exploiting Server-Side Parameter Pollution in a Query String | [solution](https://github.com/salma-ashraf10/portswigger-labs-solutions/blob/main/API-Testing/Lab%202%3AExploiting-server-side-parameter-pollution-in-a-query-string.md) |
+| Finding and Exploiting an Unused API Endpoint | [solution](https://github.com/salma-ashraf10/portswigger-labs-solutions/blob/main/API-Testing/Lab%203%3AFinding-and-exploiting-an-unused-API-endpoint.md) |
+| Exploiting a Mass Assignment Vulnerability | [solution](https://github.com/salma-ashraf10/portswigger-labs-solutions/blob/main/API-Testing/Lab%204%3AExploiting-a-mass-assignment-vulnerability.md) |
+| Exploiting server-side parameter pollution in a REST URL | [solution](https://github.com/salma-ashraf10/portswigger-labs-solutions/blob/main/API-Testing/Lab%205%3AExploiting-server-side-parameter-pollution-in-a-REST-URL.md) |
+
+</td>
+
+<td width="40%" align="center">
+
+<img width="1047" height="675" alt="image" src="https://github.com/user-attachments/assets/52cee0aa-ee25-4504-ae47-e7323efbfaf7" />
+
+
+</td>
+
+</tr>
+</table>
+
+
 ## Author
 
 Salma Ashraf [0xL0m4]
