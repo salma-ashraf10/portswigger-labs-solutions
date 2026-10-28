@@ -85,6 +85,29 @@ My solutions and notes for PortSwigger Web Security Academy labs while learning 
 </tr>
 </table>
 
+#### 5- NoSQL Injection
+
+<table>
+<tr>
+<td width="60%">
+
+| Lab Name | Link |
+|----------|------|
+| Detecting NoSQL Injection | [solution](https://github.com/salma-ashraf10/portswigger-labs-solutions/blob/main/NoSQL-Injection/Lab%201%3ADetecting-NoSQL-injection.md) |
+| Exploiting NoSQL operator injection to bypass authentication | [solution](https://github.com/salma-ashraf10/portswigger-labs-solutions/blob/main/NoSQL-Injection/Lab%202%3AExploiting-NoSQL-operator-injection-to-bypass-authentication.md) |
+| Exploiting NoSQL Injection to Extract Data | [solution](https://github.com/salma-ashraf10/portswigger-labs-solutions/blob/main/NoSQL-Injection/Lab%203%3AExploiting-NoSQL-Injection-to-Extract-Data.md) |
+| Exploiting NoSQL Operator Injection to Extract Unknown Fields | [solution](https://github.com/salma-ashraf10/portswigger-labs-solutions/blob/main/NoSQL-Injection/Lab%204%3AExploiting-NoSQL-Operator-Injection-to-Extract-Unknown-Fields.md) |
+
+</td>
+
+<td width="40%" align="center">
+
+<img width="1122" height="703" alt="image" src="https://github.com/user-attachments/assets/28eb0816-c1b2-48a0-b786-da3b141e64a8" />
+
+</td>
+
+</tr>
+</table>
 
 ## Author
 
