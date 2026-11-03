@@ -109,6 +109,32 @@ My solutions and notes for PortSwigger Web Security Academy labs while learning 
 </tr>
 </table>
 
+#### 6- GraphQL API Vulnerabilities
+
+<table>
+<tr>
+<td width="60%">
+
+| Lab Name | Link |
+|----------|------|
+| Accessing Private GraphQL Posts | [solution](https://github.com/salma-ashraf10/portswigger-labs-solutions/blob/main/GraphQL-Vulnerabilities/Lab%201%3AAccessing-Private-GraphQL-Posts.md) |
+| Accidental Exposure of Private GraphQL Fields | [solution](https://github.com/salma-ashraf10/portswigger-labs-solutions/blob/main/GraphQL-Vulnerabilities/Lab%202%3AAccidental-Exposure-of-Private-GraphQL-Fields.md) |
+| Finding a Hidden GraphQL Endpoint | [solution](https://github.com/salma-ashraf10/portswigger-labs-solutions/blob/main/GraphQL-Vulnerabilities/Lab%203%3AFinding-a-Hidden-GraphQL-Endpoint.md) |
+| Bypassing GraphQL Brute Force Protections | [solution](https://github.com/salma-ashraf10/portswigger-labs-solutions/blob/main/GraphQL-Vulnerabilities/Lab%204%3ABypassing-GraphQL-Brute-Force-Protections.md) |
+| Performing CSRF Exploits Over GraphQL | [solution](https://github.com/salma-ashraf10/portswigger-labs-solutions/blob/main/GraphQL-Vulnerabilities/Lab%205%3APerforming-CSRF-Exploits-Over-GraphQL.md) |
+
+</td>
+
+<td width="40%" align="center">
+
+<img width="1118" height="853" alt="image" src="https://github.com/user-attachments/assets/256ebec9-8e6e-4c2a-8389-187e96836791" />
+
+</td>
+
+</tr>
+</table>
+
+
 ## Author
 
 Salma Ashraf [0xL0m4]
