@@ -117,6 +117,7 @@ fragment TypeRef on __Type {
 
 The server returned the complete GraphQL schema, including the available queries, mutations, object types, and fields.
 
+<img width="1262" height="572" alt="Screenshot 2026-11-03 033252" src="https://github.com/user-attachments/assets/7ccc9eb5-d3cd-4257-8098-a8a33b2da71a" />
 
 
 ### 3. Visualizing the GraphQL Schema
@@ -126,6 +127,8 @@ To make the returned schema easier to understand and analyze, I used **GraphQL V
 [Open graphql voyager](https://apis.guru/graphql-voyager/)
 
 I copied the introspection response from Burp Suite and pasted it into the introspection tab in GraphQL Voyager.
+
+<img width="631" height="317" alt="Screenshot 2026-11-03 033311" src="https://github.com/user-attachments/assets/dd42b499-7623-402d-bf4f-9ddd9df6fde4" />
 
 I discovered an interesting query:
 
@@ -137,6 +140,7 @@ It exposed the following fields:
 - `username`
 - `password`
 
+<img width="1555" height="842" alt="Screenshot 2026-11-03 033156" src="https://github.com/user-attachments/assets/ccd75522-78c1-426c-bb07-f119760e5cc0" />
 
 ### 4. Retrieving Administrator Credentials
 
@@ -179,9 +183,14 @@ After retrieving the credentials, I navigated to the login page and used the exp
 
 I successfully accessed the administrator account and opened the admin panel.
 
+<img width="1320" height="690" alt="Screenshot 2026-11-03 033404" src="https://github.com/user-attachments/assets/3eed740d-17b7-4850-989b-c2a5bfb6492c" />
+
+
 ### 6. Deleting Carlos and Solving the Lab
 
 Finally, I located the user `carlos` in the admin panel and deleted the account.
+
+<img width="1786" height="622" alt="Screenshot 2026-11-03 033421" src="https://github.com/user-attachments/assets/3b9d4fa5-6af2-4563-9134-932fecd38070" />
 
 Alhamdulillah, the lab was solved.
 
